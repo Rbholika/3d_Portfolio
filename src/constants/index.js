@@ -256,7 +256,7 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'EduPredict',
         description: 'A machine learning model designed to provide insights into academic performance',
-        link: 'hhttps://github.com/Rbholika/EduPredict.git',
+        link: 'https://github.com/Rbholika/EduPredict.git',
     },
     {
         iconUrl: pricewise,
