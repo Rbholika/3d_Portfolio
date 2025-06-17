@@ -4,7 +4,7 @@ Welcome to my 3D Portfolio Website! This project is a visually engaging, interac
 
 ## Demo
 
-[Live Demo](#) rbholika.github.io/3d_Portfolio/
+[Live Demo](rbholika.github.io/3d_Portfolio/)
 
 ## Features
 
